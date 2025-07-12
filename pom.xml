@@ -18,7 +18,7 @@
         <jgrapht.core.version>1.5.0</jgrapht.core.version>
         <MS>4.1.2</MS>
         <aparapi.version>2.0.0</aparapi.version>
-        <commons-lang3.version>3.11</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <!--plugins version-->
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
     </properties>
